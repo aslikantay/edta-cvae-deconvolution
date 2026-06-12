@@ -1,6 +1,6 @@
 # EDTA-CVAE: Brain Cell Type Deconvolution
 
-A deep learning pipeline for deconvolving bulk RNA-seq data into cell type proportions using a Wasserstein Autoencoder with Maximum Mean Discrepancy (WAE-MMD) Conditional Variational Autoencoder (CVAE).
+A deep learning pipeline for deconvolving bulk RNA-seq data into cell type proportions using a Conditional VAE with MMD regularization and supervised contrastive loss for bulk RNA-seq deconvolution.
 
 ---
 
